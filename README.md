@@ -46,6 +46,7 @@ The payment service is injected into the contract processor, allowing flexibilit
 
 ---
 ## 📦 Project Structure
+```
 src/
 ├── application/
 │ └── Program.java
@@ -56,6 +57,7 @@ src/
 │ ├── ContractService.java
 │ ├── OnlinePaymentService.java
 │ ├── PaypalService.java
+```
 ---
 
 ## 🧮 How It Works
