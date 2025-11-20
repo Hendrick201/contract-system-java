@@ -47,7 +47,7 @@ public class Contract {
 	public String toString()
 	{
 		StringBuilder sb = new StringBuilder();
-		sb.append("Parcelas: ");
+		sb.append("Installments: ");
 		sb.append("\n");
 		for(Installment installment : installments)
 		{
