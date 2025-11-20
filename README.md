@@ -45,7 +45,6 @@ The application was built as a console program to reinforce understanding of OOP
 The payment service is injected into the contract processor, allowing flexibility and extensibility.
 
 ---
-
 ## 📦 Project Structure
 src/
 ├── application/
@@ -57,9 +56,6 @@ src/
 │ ├── ContractService.java
 │ ├── OnlinePaymentService.java
 │ ├── PaypalService.java
-
-
-
 ---
 
 ## 🧮 How It Works
